@@ -1,8 +1,7 @@
 ## Project description
 
 The purpose of this project is to create a one-to-four player game<br>
-inspired from the famous [r-type game](http://www.hardcoregaming101.net/r-type/) using a client/server architecture. This is important.<br>
-It MUST be a client/server architecture.<br>
+inspired from the famous [r-type game](http://www.hardcoregaming101.net/r-type/) using a client/server architecture.<br>
 Peer-to-peer communication is not allowed.
 
 ## Dependencies
